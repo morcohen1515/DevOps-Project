@@ -1,6 +1,2 @@
 # DevOps-Project 
-Deploy the simple web application into production environment the Tomcat and take your code from Git/GITHub into the Tomcat.
-Create availability monitor to the application.
-Automate a simple test with 2 verifications (verify) of your application functionality, using Selenium IDE.
-Perform 1 minute load test on your app via LRC/SRL with explanation why the results/graphs look this way. 
-
+Deploy a simple web application in your Tomcat production environment and take your code from Git / GitHub with Jenkins to work for Tomcat. Create an app availability monitor. Automatically turn into a simple test with 2 verifications of your application functionality, using Selenium IDE. I used TruClient for one minute load test performance in my app using Load Runner Cloud with an explanation of why the results / graphs look like this.
